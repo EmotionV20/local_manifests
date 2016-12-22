@@ -4,7 +4,7 @@
   <remove-project name="CyanogenMod/android_external_connectivity" />
   <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-14.1" />
   <project branch="nougat" name="EmotionV20/android_device_lge_v20-common" path="device/lge/v20-common" remote="emotroid" />
-  <project branch="nougat" name="EmotionV20/proprietary_vendor_lge" path="vendor/lg2" remote="emotroid" />
+  <project branch="nougat" name="EmotionV20/proprietary_vendor_lge" path="vendor/lge" remote="emotroid" />
   <project branch="nougat" name="EmotionV20/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="emotroid" />
   <project branch="cm-14.1" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
   <project branch="cm-14.1" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
