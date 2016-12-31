@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="EmotionV20/android_device_lge_ls997" path="device/lge/ls997" remote="emotroidv20" revision="nougat" />
-  <remove-project name="CyanogenMod/android_external_connectivity" />
-  <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-14.1" />
+  <remove-project name="LineageOS/android_external_connectivity" />
+  <project name="LineageOS/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-14.1" />
   <project branch="nougat" name="EmotionV20/android_device_lge_v20-common" path="device/lge/v20-common" remote="emotroidv20" />
   <project branch="nougat" name="EmotionV20/proprietary_vendor_lge" path="vendor/lge" remote="emotroidv20" />
   <project branch="cm-14.1" name="EmotionV20/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="emotroidker" />
-  <project branch="cm-14.1" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
-  <project branch="cm-14.1" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
-  <project branch="cm-14.1" name="CyanogenMod/android_external_stlport" path="external/stlport" remote="cm" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="cm" revision="cm-14.1" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="cm" revision="cm-14.1" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="cm" revision="cm-14.1" />
+  <project branch="cm-14.1" name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="cm" />
+  <project branch="cm-14.1" name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
+  <project branch="cm-14.1" name="LineageOS/android_external_stlport" path="external/stlport" remote="cm" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="cm" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="cm" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="cm" revision="cm-14.1" />
   <project name="EmotionOS/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="emotion" revision="nougat" />
 </manifest>
